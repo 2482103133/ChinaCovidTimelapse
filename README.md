@@ -1,7 +1,7 @@
 # CovidChinaMapTimelapse
  A map time lapse of covid 19 cases in China
 # Preview
-[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
+[<img src="https://raw.githubusercontent.com/2482103133/ChinaCovidTimelapse/master/img/preview.png">](preview)
 
 
 
